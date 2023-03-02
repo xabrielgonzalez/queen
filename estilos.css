@@ -1,0 +1,29 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}   
+
+.hits{
+    margin-left: 60px;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+}
+
+table {
+    border-collapse: collapse;
+  }
+  td, th, tfoot {
+    border: 1px solid black;
+    padding: 10px;
+  }
+
+  th{
+    background-color: dimgray;
+    color: white;
+  }
+  tfoot{
+    background-color: rgb(216, 214, 214);
+  }
